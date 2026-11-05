@@ -38,7 +38,7 @@
     "oxlint": "1.89.0",
     "prettier": "3.9.10",
     "sharp": "0.35.5",
-    "supabase": "2.122.0",
+    "supabase": "3.0.0",
     "typescript": "7.0.2",
     "vite": "8.3.5",
     "vitest": "5.0.5"
